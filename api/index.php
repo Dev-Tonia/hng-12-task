@@ -3,7 +3,7 @@
 $uri = $_SERVER['REQUEST_URI'];
 
 if ($uri === '/') {
-    include 'api/details.php';
+    include '/details.php';
 } else {
-    include 'api/404.php';
+    include '/404.php';
 }
