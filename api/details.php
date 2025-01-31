@@ -2,14 +2,14 @@
 header("Content-Type: application/json"); // Set response content type to JSON
 header("Access-Control-Allow-Origin: *"); // Handle CORS
 
-$github_url = 'https://github.com/dev-tonia/hng-12-task';
+$github_url = 'https://github.com/Dev-Tonia/hng-12-task';
 $email = 'ogunwatonia01@gmail.com';
 
 // Get current datetime in ISO 8601 format (UTC)
 $current_datetime = gmdate('Y-m-d\TH:i:s\Z');
 
 
-// Set the status code to 404
+// Set the status code to 200
 http_response_code(200);
 
 
