@@ -47,6 +47,6 @@ This is a simple PHP API that returns basic information in JSON format.
 
 ```
 
-### TO see more php developers train by HNG:
+###  see more php developers train by HNG:
 
 [HNG php developers]{https://hng.tech/hire/php-developers}
